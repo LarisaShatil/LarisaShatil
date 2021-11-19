@@ -5,9 +5,6 @@
 [**Telegramm**](https://t.me/Larisa_Shatillo) **]**
 - 😉 Real fact: javaScript !== java
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=LarisaShatil&show_icons=true)
-
-
 ### My skills
 <div><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -19,7 +16,7 @@
 
 
 <details>
-  <summary><b>More details</b></summary>
+  <summary><b>more details</b></summary>
   <div>
    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"?/>
@@ -35,3 +32,6 @@
 <!-- https://github.com/marketplace/actions/wakatime-coding-statistics -->
 <!-- https://github.com/marketplace/actions/profile-readme-development-stats -->
 
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=LarisaShatil&show_icons=true)
+<!--  -->
+![](https://komarev.com/ghpvc/?username=LarisaShatil&label=Profile+views: )
