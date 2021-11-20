@@ -1,11 +1,12 @@
 ### Hello, how are you today? 👋
 
- 🔝 I'm in progress of becoming a **Full Stack Developer** <br>
- 🎯 You can reach me here: **[** [**Linkedin**](http://www.linkedin.com/in/LarisaShatillo), 
+🔝 I'm in progress of becoming a **Full Stack Developer** <br>
+🎯 You can reach me here: **[** [**Linkedin**](http://www.linkedin.com/in/LarisaShatillo),
 [**Telegramm**](https://t.me/Larisa_Shatillo) **]**<br>
- 😉 Real fact: javaScript !== java
+😉 Real fact: javascript !== java
 
 ### My skills
+
 <div><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -13,7 +14,6 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </div>
-
 
 <details>
   <summary><b>more details</b></summary>
@@ -33,8 +33,11 @@
 <!-- https://github.com/marketplace/actions/profile-readme-development-stats -->
 
 <!-- STATISTICS -->
+
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=LarisaShatil&show_icons=true)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarisaShatil)](https://github.com/LarisaShatil/github-readme-stats) -->
 
+### Profile visits
 
-![](https://komarev.com/ghpvc/?username=LarisaShatil&label=Profile+views: )
+![](https://komarev.com/ghpvc/?username=LarisaShatil&label=visitors:)
