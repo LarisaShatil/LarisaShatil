@@ -17,16 +17,21 @@
 
 <details>
   <summary><b>more details</b></summary>
+  
   <div>
    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"?/>
+   <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
+   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=orange"/> 
+    <br>
    <img src="https://aleen42.github.io/badges/src/zeplin.svg"/>
    <img src="https://badges.aleen42.com/src/visual_studio_code.svg"/>
    <img src="https://badges.aleen42.com/src/sublime_text.svg"/>
-   <img src="https://badges.aleen42.com/src/eslint.svg"/>
    <img src="https://badges.aleen42.com/src/webpack.svg"/>
   <img src="https://badges.aleen42.com/src/npm.svg"/>
   </div>
+  
 </details>
 <br>
 <!-- https://github.com/marketplace/actions/wakatime-coding-statistics -->
