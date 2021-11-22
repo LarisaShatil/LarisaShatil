@@ -25,13 +25,12 @@
    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
    <img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=orange"/> 
     <br>
-   <img src="https://aleen42.github.io/badges/src/zeplin.svg"/>
    <img src="https://badges.aleen42.com/src/visual_studio_code.svg"/>
    <img src="https://badges.aleen42.com/src/sublime_text.svg"/>
    <img src="https://badges.aleen42.com/src/webpack.svg"/>
   <img src="https://badges.aleen42.com/src/npm.svg"/>
   </div>
-  
+
 </details>
 <br>
 <!-- https://github.com/marketplace/actions/wakatime-coding-statistics -->
