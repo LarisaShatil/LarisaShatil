@@ -39,7 +39,8 @@
 
 <!-- STATISTICS -->
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=LarisaShatil&show_icons=true)
+<!-- ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=LarisaShatil&show_icons=true) -->
+[![Larisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarisaShatil)](https://github.com/LarisaShatil/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarisaShatil)](https://github.com/LarisaShatil/github-readme-stats) -->
 
