@@ -1,5 +1,5 @@
 ### Introducing page
-My path to the IT field began on February 17, 2021. I have acquired many useful and outstanding skills in this area. Sure that many or all of them will be very beneficial at work.<br>
+My path to the IT field began on February 17, 2021. Since then, I have acquired many useful and outstanding skills in this area. Sure that many or all of them will be very beneficial at work.<br>
 
 🔝  I'm a **Software Developer** <br>
 😛  **Speaking languages:** English, Ukrainian, Russian, Polish and Finnish<br>
