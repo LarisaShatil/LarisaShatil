@@ -1,5 +1,5 @@
 ### Introducing page
-My path to the IT field began on February 19, 2021. And so far I have learned many interesting, wonderful and outstanding tools. I am sure that all of them will be very beneficial in my work. Some info about me:<br>
+My path to the IT field began on February 17, 2021. And so far I have learned many interesting, wonderful and outstanding tools. I am sure that all of them will be very beneficial in my work. Some info about me:<br>
 
 🔝  I'm a **Software Developer** <br>
 😛  **Speaking languages:** English, Ukrainian, Russian, Polish and Finnish<br>
@@ -18,7 +18,7 @@ My path to the IT field began on February 19, 2021. And so far I have learned ma
 </div>
 
 <details>
-  <summary><b>more details</b></summary>
+  <summary></summary>
   
   <div>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,15 +37,17 @@ My path to the IT field began on February 19, 2021. And so far I have learned ma
 
 </details>
 <br>
-<!-- https://github.com/marketplace/actions/wakatime-coding-statistics -->
-<!-- https://github.com/marketplace/actions/profile-readme-development-stats -->
 
 <!-- STATISTICS -->
-
-<!-- ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=LarisaShatil&show_icons=true) -->
-[![Larisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarisaShatil)](https://github.com/LarisaShatil/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarisaShatil)](https://github.com/LarisaShatil/github-readme-stats) -->
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LarisaShatil&amp;theme=prussian&amp;hide_border=false&show_icons=true" alt="">
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=LarisaShatil&amp;theme=prussian&amp;hide_border=false&show_icons=true" alt=""/>
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisaShatil&amp;theme=prussian&amp;hide_border=false&show_icons=true&layout=compact" alt=""/>
+</p>
 
 ### Profile visits
 
