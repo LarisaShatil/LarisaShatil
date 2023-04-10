@@ -32,13 +32,11 @@
  </div>
 
 <h2> Profile statistics</h2>
-<p>
+<div>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LarisaShatil&amp;theme=prussian&amp;hide_border=false" alt="main statistics">
 <br>
- <img src="https://github-readme-stats.vercel.app/api?username=LarisaShatil&amp;theme=prussian&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="commits">
-<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarisaShatil&amp;theme=prussian&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="coding languages">
-</p>
+</div>
 
 <!-- <img src="https://visitcount.itsvg.in/api?id=LarisaShatil&amp;icon=9&amp;color=1" alt="number of visits"> -->
 <!-- ![](https://komarev.com/ghpvc/?username=LarisaShatil&label=visitors:) -->
