@@ -32,17 +32,16 @@
  </div>
 </section>
 <section>
-  <h2>Curently working on developing:</h2>
-  ![image](https://github.com/LarisaShatil/LarisaShatil/assets/79214239/71115d05-bdb6-45a7-983e-ec83029db392)
-
-</section>
-<section>
   <h2> Profile statistics</h2>
 <div>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LarisaShatil&amp;theme=prussian&amp;hide_border=false" alt="main statistics">
 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarisaShatil&amp;theme=prussian&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="coding languages">
 </div>
+</section>
+<section>
+  <h2>Current project</h2>
+  <img src="https://github.com/LarisaShatil/LarisaShatil/assets/79214239/71115d05-bdb6-45a7-983e-ec83029db392" width="40%" alt="health statistics"/>
 </section>
 
 
