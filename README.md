@@ -1,4 +1,4 @@
-<h1> Software Developer</h1>
+<h1> Frontend Developer</h1>
 <p>My path to the IT field began on February 17, 2021. Since then, I have acquired many useful and outstanding skills in this area. Sure that many or all of them will be very beneficial at work.</p>
 
 😛  **Speaking languages:** English, Ukrainian, Russian, Polish and Finnish<br>
@@ -6,8 +6,8 @@
 [**Telegramm**](https://t.me/Larisa_Shatillo) **]**<br>
 ✅  **Real fact:** javascript !== java<br>
 
-
-<h2> Tech stack</h2>
+<section>
+  <h2> Tech stack</h2>
 
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
@@ -30,13 +30,21 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
  </div>
+</section>
+<section>
+  <h2>Curently working on developing:</h2>
+  ![image](https://github.com/LarisaShatil/LarisaShatil/assets/79214239/71115d05-bdb6-45a7-983e-ec83029db392)
 
-<h2> Profile statistics</h2>
+</section>
+<section>
+  <h2> Profile statistics</h2>
 <div>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LarisaShatil&amp;theme=prussian&amp;hide_border=false" alt="main statistics">
 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarisaShatil&amp;theme=prussian&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="coding languages">
 </div>
+</section>
+
 
 <!-- <img src="https://visitcount.itsvg.in/api?id=LarisaShatil&amp;icon=9&amp;color=1" alt="number of visits"> -->
 <!-- ![](https://komarev.com/ghpvc/?username=LarisaShatil&label=visitors:) -->
