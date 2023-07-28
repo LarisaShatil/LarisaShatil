@@ -1,9 +1,14 @@
 <h1> Frontend Developer</h1>
 <p>My path to the IT field began on February 17, 2021. Since then, I have acquired many useful and outstanding skills in this area. Sure that many or all of them will be very beneficial at work.</p>
 
-😛  **Speaking languages:** English, Ukrainian, Russian, Polish and Finnish<br>
+😛  **Speaking languages:** <br>
+  -  English - Advanced,<br>
+  -  Polish, Finnish - Elementary,<br>
+  -  Ukrainian, Russian - Native.<br>
+
 🎯  **How to reach** me? Try this: **[** [**Linkedin**](http://www.linkedin.com/in/LarisaShatillo),
 [**Telegramm**](https://t.me/Larisa_Shatillo) **]**<br>
+<br>
 ✅  **Real fact:** javascript !== java<br>
 
 <section>
