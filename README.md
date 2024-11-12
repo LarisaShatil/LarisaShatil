@@ -1,5 +1,4 @@
-<h1> Frontend Developer</h1>
-<p>My path to the IT field began on February 17, 2021. Since then, I have acquired many useful and outstanding skills in this area. Sure that many or all of them will be very beneficial at work.</p>
+<h1> Software Developer</h1>
 
 😛  **Speaking languages:** <br>
   -  English - Advanced,<br>
@@ -39,14 +38,8 @@
 <section>
   <h2> Profile statistics</h2>
 <div>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=LarisaShatil&amp;theme=prussian&amp;hide_border=false" alt="main statistics">
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarisaShatil&amp;theme=prussian&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="coding languages">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarisaShatil&amp;theme=prussian&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="coding languages">
 </div>
-</section>
-<section>
-  <h2>Current project</h2>
-  <img src="https://github.com/LarisaShatil/LarisaShatil/assets/79214239/71115d05-bdb6-45a7-983e-ec83029db392" width="40%" alt="health statistics"/>
 </section>
 
 
