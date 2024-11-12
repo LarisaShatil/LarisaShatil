@@ -27,14 +27,10 @@
 </section>
 <br>
 <section>
-  <h2>Speaking languages: </h2>
-  -  English - Advanced,<br>
-  -  Polish, Finnish - Elementary,<br>
-  -  Ukrainian, Russian - Native.<br>
-
-<h2>🎯 How to reach me?</h2>
-<p>Try this: **[** [**Linkedin**](http://www.linkedin.com/in/LarisaShatillo),
-[**Telegramm**](https://t.me/larisa_shatil) **]**</p>
+  <h2>Speaking languages</h2>
+  <p> <bold>English</bold> - Advanced (C1)</p>
+  <p><bold>Finnish</bold> - Intermediate (B1)</p>
+  <p><bold>Ukrainian, Russian</bold> - Native</p>
 </section>
 
 
