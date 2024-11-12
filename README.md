@@ -28,9 +28,11 @@
 <br>
 <section>
   <h2>Speaking languages</h2>
-  <p> <bold>English</bold> - Advanced (C1)</p>
-  <p><bold>Finnish</bold> - Intermediate (B1)</p>
-  <p><bold>Ukrainian, Russian</bold> - Native</p>
+  <ul>
+    <li><strong>English</strong> - Advanced (C1)</li>
+    <li><strong>Finnish</strong> - Intermediate (B1)</li>
+    <li><strong>Ukrainian, Russian</strong> - Native</li>
+  </ul>
 </section>
 
 
