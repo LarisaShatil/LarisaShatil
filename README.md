@@ -1,15 +1,5 @@
 <h1> Software Developer</h1>
-
-😛  **Speaking languages:** <br>
-  -  English - Advanced,<br>
-  -  Polish, Finnish - Elementary,<br>
-  -  Ukrainian, Russian - Native.<br>
-
-🎯  **How to reach** me? Try this: **[** [**Linkedin**](http://www.linkedin.com/in/LarisaShatillo),
-[**Telegramm**](https://t.me/larisa_shatil) **]**<br>
 <br>
-✅  **Real fact:** javascript !== java<br>
-
 <section>
   <h2> Tech stack</h2>
 
@@ -35,6 +25,18 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
  </div>
 </section>
+<br>
+<section>
+  **Speaking languages:** <br>
+  -  English - Advanced,<br>
+  -  Polish, Finnish - Elementary,<br>
+  -  Ukrainian, Russian - Native.<br>
+
+🎯  **How to reach** me? Try this: **[** [**Linkedin**](http://www.linkedin.com/in/LarisaShatillo),
+[**Telegramm**](https://t.me/larisa_shatil) **]**<br>
+</section>
+
+
 <section>
   <h2> Profile statistics</h2>
 <div>
