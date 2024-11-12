@@ -7,7 +7,7 @@
   -  Ukrainian, Russian - Native.<br>
 
 🎯  **How to reach** me? Try this: **[** [**Linkedin**](http://www.linkedin.com/in/LarisaShatillo),
-[**Telegramm**](https://t.me/Larisa_Shatillo) **]**<br>
+[**Telegramm**](https://t.me/larisa_shatil) **]**<br>
 <br>
 ✅  **Real fact:** javascript !== java<br>
 
