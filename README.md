@@ -1,5 +1,4 @@
 <h1> Software Developer</h1>
-<br>
 <!-- <section>
   <h2> Tech stack</h2>
 
@@ -27,7 +26,7 @@
 </section>
 <br> -->
 <section>
-  <h2>Speaking languages</h2>
+  <h2>Spoken languages</h2>
   <ul>
     <li><strong>English</strong> - Advanced (C1)</li>
     <li><strong>Finnish</strong> - Intermediate (B1)</li>
