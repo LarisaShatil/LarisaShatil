@@ -1,6 +1,6 @@
 <h1> Software Developer</h1>
 <br>
-<section>
+<!-- <section>
   <h2> Tech stack</h2>
 
 <div>
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
  </div>
 </section>
-<br>
+<br> -->
 <section>
   <h2>Speaking languages</h2>
   <ul>
