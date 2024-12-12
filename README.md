@@ -1,4 +1,5 @@
 <h1> Software Developer</h1>
+<hr>
 <!-- <section>
   <h2> Tech stack</h2>
 
@@ -34,7 +35,7 @@
   <li><strong>Libraries:</strong> JQuery, Zod, Redux, Material-UI, Chakra-UI;</li>
   <li><strong>DevOps & Cloud Platforms:</strong> Docker containers, GitHub Actions, Amazon AWS.</li>
 </ul>
-<hr>
+
 <section>
   <h2>Spoken languages</h2>
   <ul>
