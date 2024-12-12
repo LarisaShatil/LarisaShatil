@@ -1,5 +1,4 @@
 <h1> Software Developer</h1>
-<hr>
 <!-- <section>
   <h2> Tech stack</h2>
 
