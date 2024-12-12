@@ -25,6 +25,16 @@
  </div>
 </section>
 <br> -->
+<h2>Tech stack</h2>
+<ul>
+  <li><strong>Languages: </strong>HTML, CSS, SCSS, JavaScript, TypeScript, Java, Bash scripting;</li>
+  <li><strong>Frameworks:</strong> React, Bootstrap;</li>
+  <li><strong>Runtime Environments: </strong>Node, Deno;</li>
+  <li><strong>Testing Tools:</strong> Jest, React Testing Library;</li>
+  <li><strong>Libraries:</strong> JQuery, Zod, Redux, Material-UI, Chakra-UI;</li>
+  <li><strong>DevOps & Cloud Platforms:</strong> Docker containers, GitHub Actions, Amazon AWS.</li>
+</ul>
+<hr>
 <section>
   <h2>Spoken languages</h2>
   <ul>
