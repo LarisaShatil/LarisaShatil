@@ -1,7 +1,33 @@
 <h1> Software Developer</h1>
 <!-- <section>
-  <h2 style="color: red;"> Tech stack</h2>
-
+  <h2> Tech stack</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LarisaShatil&show_icons=true&locale=en" alt="LarisaShatil" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LarisaShatil&" alt="LarisaShatil" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=LarisaShatil&show_icons=true&locale=en&layout=compact" alt="LarisaShatil" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LarisaShatil" alt="LarisaShatil" /></a></p>
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
@@ -43,31 +69,6 @@
     <li><strong>Ukrainian, Russian</strong> - Native</li>
   </ul>
 </section>
- <canvas id="sunflowerCanvas" width="800" height="600"></canvas>
-    <script>
-        const canvas = document.getElementById('sunflowerCanvas');
-        const ctx = canvas.getContext('2d');
-
-        function drawSunflower() {
-            ctx.clearRect(0, 0, canvas.width, canvas.height);
-
-            // Example: Drawing a circle for the sunflower center
-            ctx.beginPath();
-            ctx.arc(400, 300, 50, 0, 2 * Math.PI);
-            ctx.fillStyle = 'yellow';
-            ctx.fill();
-            ctx.closePath();
-
-            // Add more drawing code here for petals and other parts
-        }
-
-        function animate() {
-            drawSunflower();
-            requestAnimationFrame(animate);
-        }
-
-        animate();
-    </script>
 
 <section>
   <h2> Profile statistics</h2>
