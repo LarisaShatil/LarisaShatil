@@ -47,5 +47,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LarisaShatil&theme=shadow_blue&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LarisaShatil&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📝 Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+---
