@@ -3,6 +3,7 @@
 ## Hi! 👋 I'm Larisa - a Software Developer 👩🏽‍💻 with a business background💼.
 
 ## ⚒️ Tech Stack 
+
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
@@ -27,7 +28,9 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&amp;logo=amazon-aws&amp;logoColor=white" alt="AWS">
 </div>
+
 <br>
+
 - **Programming Languages:** JavaScript, TypeScript, Java, Python, HTML5, CSS, SCSS, Bash scripting
 - **Libraries & Frameworks:** React, Bootstrap, JQuery, Zod, Redux, Tailwind, Material-UI, Chakra-UI
 - **Runtime Environments:** Node, Deno
