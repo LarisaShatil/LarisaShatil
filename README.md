@@ -43,7 +43,31 @@
     <li><strong>Ukrainian, Russian</strong> - Native</li>
   </ul>
 </section>
+ <canvas id="sunflowerCanvas" width="800" height="600"></canvas>
+    <script>
+        const canvas = document.getElementById('sunflowerCanvas');
+        const ctx = canvas.getContext('2d');
 
+        function drawSunflower() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            // Example: Drawing a circle for the sunflower center
+            ctx.beginPath();
+            ctx.arc(400, 300, 50, 0, 2 * Math.PI);
+            ctx.fillStyle = 'yellow';
+            ctx.fill();
+            ctx.closePath();
+
+            // Add more drawing code here for petals and other parts
+        }
+
+        function animate() {
+            drawSunflower();
+            requestAnimationFrame(animate);
+        }
+
+        animate();
+    </script>
 
 <section>
   <h2> Profile statistics</h2>
