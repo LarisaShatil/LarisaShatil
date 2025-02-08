@@ -37,8 +37,9 @@
 <section>
   <h2>Spoken languages</h2>
   <ul>
-    <li><strong>English</strong> - Advanced (C1)</li>
+    <li><strong>English</strong> - Advanced (fluent)</li>
     <li><strong>Finnish</strong> - Intermediate (B1)</li>
+    <li><strong>Polish</strong> - Elementary (A2)</li>
     <li><strong>Ukrainian, Russian</strong> - Native</li>
   </ul>
 </section>
