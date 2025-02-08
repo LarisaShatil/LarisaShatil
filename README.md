@@ -1,6 +1,6 @@
 <h1> Software Developer</h1>
 <!-- <section>
-  <h2> Tech stack</h2>
+  <h2 style={color:red;}> Tech stack</h2>
 
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
