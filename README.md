@@ -1,6 +1,6 @@
 <img src="Banner.png" alt="GitHub banner" width="100%">
 
-## Hi! 👋 I'm Larisa - a Software Developer 👩🏽‍💻 with a business background💼.
+## Hi! 👋 I'm Larisa, a Software Developer 👩🏽‍💻 .
 
 ## ⚒️ Tech Stack 
 
