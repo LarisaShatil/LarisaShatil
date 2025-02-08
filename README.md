@@ -27,11 +27,10 @@
 <br> -->
 <h2>Tech stack</h2>
 <ul>
-  <li><strong>Languages: </strong>HTML, CSS, SCSS, JavaScript, TypeScript, Java, Bash scripting;</li>
-  <li><strong>Frameworks:</strong> React, Bootstrap;</li>
+  <li><strong>Languages: </strong>JavaScript, TypeScript, Java, HTML, CSS, SCSS, Bash scripting;</li>
+  <li><strong>Libraries& Frameworks:</strong> React, Bootstrap, JQuery, Zod, Redux, Tailwind, Material-UI, Chakra-UI;</li>
   <li><strong>Runtime Environments: </strong>Node, Deno;</li>
-  <li><strong>Testing Tools:</strong> Jest, React Testing Library;</li>
-  <li><strong>Libraries:</strong> JQuery, Zod, Redux, Material-UI, Chakra-UI;</li>
+  <li><strong>Building & Testing Tools:</strong> Vite, Webpack, Jest, React Testing Library;</li>
   <li><strong>DevOps & Cloud Platforms:</strong> Docker containers, GitHub Actions, Amazon AWS.</li>
 </ul>
 
