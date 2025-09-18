@@ -1,7 +1,5 @@
 <img src="Banner.png" alt="GitHub banner" width="100%">
 
-## Hi! 👋 I'm Larisa 👩🏽‍💻 .
-
 ## ⚒️ Tech Stack 
 
 <div>
