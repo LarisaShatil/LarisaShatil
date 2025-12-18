@@ -32,7 +32,7 @@
 - **Programming Languages:** JavaScript, TypeScript, Java, Python, HTML5, CSS, SCSS, Bash scripting
 - **Libraries & Frameworks:** React, Bootstrap, JQuery, Zod, Redux, Tailwind, Material-UI, Chakra-UI
 - **Runtime Environments:** Node, Deno
-- **Building & Testing Tools:** Webpack, Vitest, Playwright, Jest, React Testing Library
+- **Building & Testing Tools:** Webpack, Vitest, Playwright, Jest, REST client, Postman, React Testing Library
 - **DevOps & Cloud Platforms:** Docker containers, GitHub Actions, Amazon AWS
 
 ## 😋 Spoken Languages 
